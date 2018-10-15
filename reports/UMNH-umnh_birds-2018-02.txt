@@ -1,0 +1,156 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 26
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 6
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 9
+	Date: 2018-02-05 ; Times: 23
+	Date: 2018-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 30
+	Query: "catalognumber:389 institutioncode:UMNH" ; Times: 1
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "catalognumber:14723 institutioncode:UMNH" ; Times: 2
+	Query: "Marmaronetta angustirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 1
+	Query: "Oceanites gracilis galapagoensis" ; Times: 1
+	Query: "catalognumber:17751 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:15169 institutioncode:UMNH" ; Times: 1
+	Query: "class:aves (p. woodward)" ; Times: 1
+	Query: "Ara macao" ; Times: 4
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "catalognumber:2292 institutioncode:UMNH" ; Times: 1
+	Query: "Falco columbarius minnesota" ; Times: 2
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "Santa Clara County colaptes" ; Times: 1
+	Query: "catalognumber:15167 institutioncode:UMNH" ; Times: 1
+	Query: "Dendragapus obscurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:aves (19137)" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dendrocygna javanica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus locality:Guadalupe stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:15168 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "class:aves (p. w. woodward)" ; Times: 1
+	Query: "specificepithet:columbarius genus:falco class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1892 download events in this period)
+Total number of records downloaded: 4451
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Israel ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 7
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-02 ; Times: 11
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 6
+	Date: 2018-02-05 ; Times: 17
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 3
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "class:Aves country:&#34;Gabon&#34;" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:melodia caurina genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "specificepithet:melodia maxima genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+
+
+End of report.
