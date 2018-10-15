@@ -1,0 +1,58 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 112
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "specificepithet:minor genus:chordeiles stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "specificepithet:gryphus genus:Vultur country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "gbifdatasetid:52da118d-e74e-420a-9b6b-1a6d7bc3028d" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "18756 Aves" ; Times: 2
+	Query: "peet bird collection" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "19886 Aves" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 674 download events in this period)
+Total number of records downloaded: 123
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+
+
+End of report.
