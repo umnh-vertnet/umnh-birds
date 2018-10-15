@@ -1,0 +1,48 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 6
+	Date: 2017-11-25 ; Times: 2
+	Date: 2017-11-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "buccinator minnesota" ; Times: 1
+	Query: "specificepithet:melanocorys class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 1
+	Query: "Cygnus buccinator minnesota" ; Times: 5
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1101 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Israel ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "greenland aves" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
