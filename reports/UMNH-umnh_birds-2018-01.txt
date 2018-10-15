@@ -1,0 +1,113 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 128
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 25
+	Country: India ; Times: 3
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-10 ; Times: 3
+	Date: 2018-01-26 ; Times: 5
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-23 ; Times: 1
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-15 ; Times: 6
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-16 ; Times: 18
+	Date: 2018-01-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Setophaga fusca" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla class:Aves county:&#34;pima&#34;" ; Times: 2
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:inexpectata class:aves" ; Times: 3
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 3
+	Query: "Aix galericulata sex:male hassex:1" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Aix galericulata sex:female hassex:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Aix galericulata sex:Male hassex:1" ; Times: 1
+	Query: "Setophaga graciae" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 1
+	Query: "Lamprolaima rhami" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 3
+	Query: "specificepithet:canadensis genus:perisoreus stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "Aix galericulata sex:Female hassex:1" ; Times: 1
+	Query: "genus:dendrocygna class:Aves year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Momotus lessonii" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "class:aves recordedby:w a weber" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+	Query: "Dendrocygna javanica vntype:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1398 download events in this period)
+Total number of records downloaded: 738
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:capensis genus:Zonotrichia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+
+
+End of report.
