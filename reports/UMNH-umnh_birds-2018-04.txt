@@ -1,0 +1,217 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 202
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Indonesia ; Times: 7
+	Country: United States ; Times: 135
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-07 ; Times: 7
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-22 ; Times: 128
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 19
+	Date: 2018-04-25 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2237 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2408 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1027 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1137 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2879 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1973 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1198 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1112 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1201 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:9165 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1207 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1971 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:92 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2361 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2357 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2825 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2203 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2205 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2884 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1004 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:1023 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1993 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1303 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8023 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2207 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1262 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:10253 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2833 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2858 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:1026 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2219 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1264 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8035 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2881 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1270 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2220 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1138 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2360 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2209 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:alba class:aves stateprovince:&#34;alaska&#34; year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "catalognumber:8034 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:108 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1025 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1139 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2226 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1972 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2228 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1263 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1200 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2204 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1977 institutioncode:UMNH" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "catalognumber:1150 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1160 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2201 institutioncode:UMNH" ; Times: 1
+	Query: "genus:acanthis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "catalognumber:1930 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1134 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2218 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8031 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1992 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2480 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1268 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1269 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1994 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2206 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2222 institutioncode:UMNH" ; Times: 1
+	Query: "vultur gryphus" ; Times: 19
+	Query: "catalognumber:1974 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1433 institutioncode:UMNH" ; Times: 1
+	Query: "AMPELICEPS CORONATUS" ; Times: 7
+	Query: "genus:turdus year &gt;= 1938 year &lt;= 1938 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "catalognumber:2224 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1118 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1271 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1261 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1197 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2200 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1157 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1626 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1153 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1359 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2494 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1995 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1045 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1143 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2868 institutioncode:UMNH" ; Times: 1
+	Query: "genus:junco class:aves stateprovince:&#34;alaska&#34; year &gt;= 1962 year &lt;= 1962" ; Times: 1
+	Query: "catalognumber:2883 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2223 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1208 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1432 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8165 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1199 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1979 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:93 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1046 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1976 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2882 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1141 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 4
+	Query: "catalognumber:1133 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1311 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2230 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8036 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Dromaius institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2877 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1159 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1162 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:94 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2878 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2202 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2875 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2854 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1151 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1944 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1142 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Eremophila class:aves stateprovince:&#34;alaska&#34; year &gt;= 1960 year &lt;= 1970" ; Times: 1
+	Query: "catalognumber:1259 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8041 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1296 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1989 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:352 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1058 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:canagica genus:Chen" ; Times: 2
+	Query: "catalognumber:338 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:flammea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "catalognumber:2859 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:2208 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2217 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:111 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2231 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2880 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2229 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1085 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2221 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1304 institutioncode:UMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1359 download events in this period)
+Total number of records downloaded: 325
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 9
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "&#34;whole organism&#34; vntype:specimen order:passeriformes" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "ramphocelus nigrogularis" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:caerulea genus:Guiraca class:Aves" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Progne subis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1995 year &lt;= 2000" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "Zonotrichia leucophrys gambelii" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+
+
+End of report.
