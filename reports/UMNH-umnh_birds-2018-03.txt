@@ -1,0 +1,112 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 813
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 79
+	Country: Australia ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 7
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-01 ; Times: 8
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-15 ; Times: 4
+	Date: 2018-03-03 ; Times: 7
+	Date: 2018-03-05 ; Times: 7
+	Date: 2018-03-28 ; Times: 4
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 15
+	Date: 2018-03-27 ; Times: 13
+	Date: 2018-03-23 ; Times: 3
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 2
+	Query: "class:Aves (17829)" ; Times: 1
+	Query: "class:aves (16522)" ; Times: 1
+	Query: "class:Aves preparations:skin catalognumber:12541" ; Times: 1
+	Query: "Callipepla californica okanogan washington" ; Times: 1
+	Query: "genus:Rhinortha specificepithet:chlorophaea" ; Times: 6
+	Query: "genus:Dicrurus specificepithet:paradiseus" ; Times: 2
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "cecropis badia" ; Times: 3
+	Query: "specificepithet:leucoptera genus:Loxia year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "dicrurus annectans" ; Times: 1
+	Query: "specificepithet:atrata genus:Leucosticte institutioncode:UMNH" ; Times: 2
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "catalognumber:15730 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 5
+	Query: "21570" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1970" ; Times: 1
+	Query: "genus:Neophema specificepithet:pulchella" ; Times: 6
+	Query: "genus:Vultur specificepithet:gryphus" ; Times: 5
+	Query: "Callipepla californica okanogan county" ; Times: 1
+	Query: "16522 class:Aves" ; Times: 1
+	Query: "catalognumber:15732 institutioncode:UMNH" ; Times: 2
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 2
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 5
+	Query: "genus:Leucosticte institutioncode:UMNH" ; Times: 5
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 5
+	Query: "vultur" ; Times: 2
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "16171" ; Times: 1
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 3
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 2
+	Query: "catalognumber:15731 institutioncode:UMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1284 download events in this period)
+Total number of records downloaded: 127
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-12 ; Times: 4
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Passerculus sandwichensis princeps" ; Times: 1
+	Query: "specificepithet:sandvicensis genus:Branta" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Passerculus princeps" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "aphelocoma woodhouseii" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "paroaria gularis" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+
+
+End of report.
