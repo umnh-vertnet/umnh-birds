@@ -1,0 +1,63 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 38
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 7
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 4
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nigrogularis genus:Ramphocelus" ; Times: 1
+	Query: "specificepithet:angustirostris genus:Lepidocolaptes" ; Times: 1
+	Query: "specificepithet:chrysops genus:Cyanocorax" ; Times: 1
+	Query: "catalognumber:5545 institutioncode:UMNH" ; Times: 2
+	Query: "aves charadrius montana" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "specificepithet:cayana genus:Tangara" ; Times: 1
+	Query: "specificepithet:gularis genus:Paroaria" ; Times: 1
+	Query: "genus:spinus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "bird 15374" ; Times: 2
+	Query: "specificepithet:coronata genus:Paroaria" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Thailand&#34; year &gt;= 2010 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1178 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:rhami genus:lamprolaima country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "Pooecetes gramineus affinis" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+
+
+End of report.
