@@ -1,0 +1,95 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 53
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-22 ; Times: 5
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "UMNH-4755" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "empidonax traillii extimus" ; Times: 2
+	Query: "Goura cristata" ; Times: 3
+	Query: "specificepithet:longicaudus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Sphyrapicus country:&#34;Canada&#34;" ; Times: 1
+	Query: "anser indicus" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "specificepithet:longicaudus genus:stercorarius class:aves year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "genus:stercorarius class:aves year &gt;= 1966 year &lt;= 1966" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1416 download events in this period)
+Total number of records downloaded: 1138
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Bulgaria ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-09 ; Times: 5
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-19 ; Times: 7
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 9
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "hawaii bird specimens" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+
+
+End of report.
