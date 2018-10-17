@@ -1,0 +1,88 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 125
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Passerina stateprovince:&#34;Wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:18754 institutioncode:UMNH" ; Times: 1
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "catalognumber:22738 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "(B-16792 16792)" ; Times: 1
+	Query: "specificepithet:magnolia genus:Setophaga county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "gbifdatasetid:52da118d-e74e-420a-9b6b-1a6d7bc3028d" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "Phalaropus minnesota" ; Times: 2
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 1
+	Query: "Lamprolaima" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 2
+	Query: "ara macao" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 846 download events in this period)
+Total number of records downloaded: 391
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+
+
+End of report.
