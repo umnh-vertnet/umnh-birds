@@ -1,0 +1,125 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 538
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: United States ; Times: 24
+	Country: Germany ; Times: 6
+	Country: Peru ; Times: 11
+	Country: Belgium ; Times: 6
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 6
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-31 ; Times: 5
+	Date: 2018-07-23 ; Times: 5
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-24 ; Times: 15
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-30 ; Times: 4
+	Date: 2018-07-19 ; Times: 3
+	Date: 2018-07-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "UMNH 1624" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "13128 aves" ; Times: 1
+	Query: "Stercorarius longicaudus mappable:1" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "vultur country:&#34;Ecuador&#34; (vultur) AND (vultur)" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "specificepithet:tyrannus genus:Tyrannus recordedby:Worthen" ; Times: 1
+	Query: "22213 aves" ; Times: 1
+	Query: "Alexandri ranong" ; Times: 1
+	Query: "Columbina picui" ; Times: 2
+	Query: "Loriculus vernalis thailand" ; Times: 1
+	Query: "20055 aves" ; Times: 1
+	Query: "vultur" ; Times: 3
+	Query: "21292 aves" ; Times: 1
+	Query: "specificepithet:traillii genus:Empidonax institutioncode:UMNH" ; Times: 2
+	Query: "Haliaeetus leucocephalus mounted skin" ; Times: 1
+	Query: "20167 aves" ; Times: 1
+	Query: "Stercorarius pomarinus mappable:1" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "Oceanites oceanicus mappable:1" ; Times: 1
+	Query: "phileticus" ; Times: 1
+	Query: "Anser indicus" ; Times: 4
+	Query: "institutioncode:UMNH" ; Times: 2
+	Query: "12513 aves" ; Times: 2
+	Query: "genus:Empidonax institutioncode:UMNH" ; Times: 1
+	Query: "kapoe" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "16129 aves" ; Times: 1
+	Query: "anser indicus" ; Times: 2
+	Query: "18509 AVES" ; Times: 2
+	Query: "specificepithet:bairdii genus:ammodramus" ; Times: 1
+	Query: "23651 psittaciformes" ; Times: 2
+	Query: "specificepithet:traillii genus:Empidonax month &gt;= 6 month &lt;= 7 institutioncode:UMNH" ; Times: 2
+	Query: "thungkha" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 977 download events in this period)
+Total number of records downloaded: 1019
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-17 ; Times: 4
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 9
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pipilo" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "vultur country:&#34;Ecuador&#34; (vultur) AND (vultur)" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Haemorhous purpureus" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "kapoe" ; Times: 1
+
+
+End of report.
