@@ -1,0 +1,97 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "lagopus leucura" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1169 download events in this period)
+Total number of records downloaded: 1253
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "elephant" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
