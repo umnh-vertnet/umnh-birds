@@ -1,0 +1,79 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 53
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Peru ; Times: 2
+	Country: United States ; Times: 16
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: China ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-25 ; Times: 14
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:tricolor genus:Phalaropus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "mountain beaver" ; Times: 2
+	Query: "vntype:specimen specificepithet:troglodytes genus:Troglodytes year &gt;= 2016 year &lt;= 2018" ; Times: 1
+	Query: "Mergus squamatus" ; Times: 17
+	Query: "18237" ; Times: 1
+	Query: "Umnh 5952" ; Times: 1
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; (selasphorus) year &gt;= 1860 year &lt;= 2007 month &gt;= 3 month &lt;= 6" ; Times: 2
+	Query: "22061" ; Times: 1
+	Query: "county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "locality:aleutians stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2006 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:jamaicensis stateprovince:&#34;alaska&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1300 download events in this period)
+Total number of records downloaded: 527
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mergus squamatus" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+
+
+End of report.
