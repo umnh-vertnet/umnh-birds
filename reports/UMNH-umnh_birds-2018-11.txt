@@ -1,0 +1,91 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 26
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 9
+	Country: China ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 2
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 3
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-26 ; Times: 2
+	Date: 2018-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves catalognumber:2592" ; Times: 1
+	Query: "catalognumber:23628" ; Times: 1
+	Query: "catalognumber:23638" ; Times: 2
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 4
+	Query: "Mergus squamatus" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "phileticus" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 2
+	Query: "alopochen" ; Times: 1
+	Query: "locality:chesapeake stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "specificepithet:hornemanni stateprovince:&#34;alaska&#34; year &gt;= 1964 year &lt;= 1964" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1719 download events in this period)
+Total number of records downloaded: 705
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-03 ; Times: 3
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-01 ; Times: 5
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-29 ; Times: 2
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Picoides dorsalis" ; Times: 3
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "poecile carolinensis ohio" ; Times: 2
+	Query: "setophaga caerulescens" ; Times: 1
+	Query: "specificepithet:australis genus:Leucosticte" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile year &gt;= 1970 year &lt;= 1980" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "Buteo buteo" ; Times: 1
+	Query: "genus:Perisoreus stateprovince:&#34;British Columbia&#34;" ; Times: 1
+
+
+End of report.
