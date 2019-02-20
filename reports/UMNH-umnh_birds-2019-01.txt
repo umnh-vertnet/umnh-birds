@@ -1,0 +1,93 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 62
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 3
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "catalognumber:18450 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:virens genus:Icteria stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "obsoletus coconino" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 3
+	Query: "specificepithet:flammeus genus:Asio stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "eos bornea" ; Times: 1
+	Query: "Pharomachrus pavoninus" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "class:aves recordedby:n. a. wood year &gt;= 1870 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 962 download events in this period)
+Total number of records downloaded: 662
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 3
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "specificepithet:sula genus:Sula stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+
+
+End of report.
