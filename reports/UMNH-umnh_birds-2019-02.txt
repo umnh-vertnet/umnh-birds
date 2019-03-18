@@ -1,0 +1,89 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 29
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 14
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-21 ; Times: 4
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "skeleton vntype:specimen specificepithet:bornea genus:Eos" ; Times: 1
+	Query: "Pterodroma externa" ; Times: 2
+	Query: "vntype:specimen specificepithet:bornea genus:eos (skeleton)" ; Times: 3
+	Query: "Aphelocoma woodhouseii year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "junco stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Junco hyemalis caniceps stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "Numenius tahitiensis" ; Times: 2
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "Aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "aquila stateprovince:&#34;Nevada&#34; year &gt;= 1950 year &lt;= 1962" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 1
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "vntype:specimen specificepithet:bornea genus:eos" ; Times: 1
+	Query: "egretta thula bear river vntype:specimen" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "Toxostoma lecontei nevada" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1227 download events in this period)
+Total number of records downloaded: 140
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-11 ; Times: 5
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:bornea genus:Eos" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Lamprolaima rhami" ; Times: 1
+	Query: "specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+
+
+End of report.
