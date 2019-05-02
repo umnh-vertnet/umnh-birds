@@ -1,0 +1,85 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 239
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Denmark ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-06 ; Times: 18
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;hawaii&#34; institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:diardi genus:lophura" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5545 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 2
+	Query: "specificepithet:trichas year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "Haliaeetus leucocephalus year &gt; 1990 NOT clo" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Utah" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Nevada" ; Times: 4
+	Query: "20284" ; Times: 1
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus stateprovince:&#34;Kansas&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1281 download events in this period)
+Total number of records downloaded: 336
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "family:Picidae" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+
+
+End of report.
