@@ -1,0 +1,149 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 226
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 51
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Belgium ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 5
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 4
+	Date: 2019-06-08 ; Times: 9
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-16 ; Times: 12
+	Date: 2019-06-11 ; Times: 22
+	Date: 2019-06-10 ; Times: 7
+	Date: 2019-06-12 ; Times: 5
+	Date: 2019-06-15 ; Times: 3
+	Date: 2019-06-27 ; Times: 2
+	Date: 2019-06-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americanus genus:Coccyzus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pluvialis dominica mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:junco class:aves stateprovince:&#34;alaska&#34; year &gt;= 1961 year &lt;= 1961" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pubescens class:aves stateprovince:&#34;alaska&#34; year &gt;= 1962 year &lt;= 1964" ; Times: 1
+	Query: "class:Aves catalognumber:10640 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 1
+	Query: "genus:acanthis class:aves stateprovince:&#34;alaska&#34; month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "class:Aves catalognumber:21892 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:ustulatus genus:Catharus stateprovince:&#34;alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Puffinus puffinus opisthomelas AND Island Guadalupe" ; Times: 1
+	Query: "genus:Dromaius specificepithet:novaehollandiae" ; Times: 1
+	Query: "class:Aves catalognumber:9465 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Oceanites specificepithet:oceanicus" ; Times: 1
+	Query: "class:Aves catalognumber:10497 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Aethia specificepithet:pusilla" ; Times: 1
+	Query: "class:Aves catalognumber:12399 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puffinus creatopus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "class:Aves catalognumber:15768 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:Cygnus specificepithet:atratus" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:immutabilis" ; Times: 1
+	Query: "class:Aves catalognumber:2496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:lapponicus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1953 year &lt;= 1953" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Oceanites oceanicus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "class:Aves catalognumber:19498 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 2
+	Query: "class:Aves catalognumber:9690 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puffinus opisthomelas AND Island NOT Natividad" ; Times: 1
+	Query: "genus:Ara specificepithet:macao" ; Times: 2
+	Query: "genus:Dicrurus specificepithet:paradiseus" ; Times: 1
+	Query: "genus:Aeronautes specificepithet:saxatalis" ; Times: 1
+	Query: "genus:Myophonus specificepithet:caeruleus" ; Times: 1
+	Query: "genus:falco class:aves stateprovince:&#34;alaska&#34; month &gt;= 7 month &lt;= 7" ; Times: 2
+	Query: "genus:Cygnus specificepithet:buccinator" ; Times: 1
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 1
+	Query: "genus:agelaius stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:8736 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "class:Aves catalognumber:15770 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves locality:Mecca county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 1
+	Query: "class:Aves catalognumber:15767 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hyemalis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1962 year &lt;= 1962" ; Times: 1
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 1
+	Query: "specificepithet:flammea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "genus:Vultur specificepithet:gryphus" ; Times: 1
+	Query: "Puffinus puffinus opisthomelas AND Island AND Guadalupe" ; Times: 1
+	Query: "class:Aves catalognumber:15769 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Rhea specificepithet:americana" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 1
+	Query: "specificepithet:alba class:aves stateprovince:&#34;alaska&#34; year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "genus:acanthis class:aves stateprovince:&#34;alaska&#34; month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:pelagica genus:Chaetura class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:9818 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:junco class:aves stateprovince:&#34;alaska&#34; year &gt;= 1962 year &lt;= 1962" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 1
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "class:Aves catalognumber:15798 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:acanthis class:aves stateprovince:&#34;alaska&#34; month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "class:Aves catalognumber:15158 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "borealis everett" ; Times: 1
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 1
+	Query: "genus:Rhinortha specificepithet:chlorophaea" ; Times: 1
+	Query: "genus:Neophema specificepithet:pulchella" ; Times: 1
+	Query: "class:Aves catalognumber:10496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Anous specificepithet:stolidus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1182 download events in this period)
+Total number of records downloaded: 790
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 6
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "vntype:specimen specificepithet:ustulatus genus:Catharus stateprovince:&#34;alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "beaver oregon" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia class:Aves (skin)" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia class:Aves country:&#34;Argentina&#34;" ; Times: 1
+
+
+End of report.
