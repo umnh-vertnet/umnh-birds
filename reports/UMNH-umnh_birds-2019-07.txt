@@ -1,0 +1,125 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 1198
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 3
+	Country: United Kingdom ; Times: 9
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 6
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-12 ; Times: 12
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 4
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-31 ; Times: 10
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-20 ; Times: 2
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-16 ; Times: 5
+	Date: 2019-07-06 ; Times: 4
+	Date: 2019-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus newelli" ; Times: 1
+	Query: "specificepithet:obsoletus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;British Columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "gbifdatasetid:52da118d-e74e-420a-9b6b-1a6d7bc3028d procellariiformes" ; Times: 1
+	Query: "genus:Aethia specificepithet:pygmaea" ; Times: 1
+	Query: "genus:Lamprolaima specificepithet:rhami" ; Times: 1
+	Query: "1.5 mi E Norman" ; Times: 1
+	Query: "Pterodroma brevipes" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Montana&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "specificepithet:obsoletus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "class:aves locality:lawrence stateprovince:&#34;alaska&#34; recordedby:cade" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "family:Alcidae locality:Todos Santos stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "cervicalis" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:synthliboramphus locality:guadalupe stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "genus:Lampornis specificepithet:clemenciae" ; Times: 1
+	Query: "pterodroma cervicalis" ; Times: 2
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Montana&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;British Columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Montana vntype:specimen specificepithet:quiscula genus:Quiscalus" ; Times: 3
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:borealis class:aves stateprovince:&#34;alaska&#34; month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "catalognumber:15901 institutioncode:UMNH" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 2
+	Query: "gbifdatasetid:52da118d-e74e-420a-9b6b-1a6d7bc3028d" ; Times: 3
+	Query: "23148" ; Times: 1
+	Query: "oceanites gracilis" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 985 download events in this period)
+Total number of records downloaded: 299
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-02 ; Times: 3
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 3
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Coronados" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;British Columbia&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Alberta&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "BIRDS QUITO ECUADOR" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:bonariensis genus:Thraupis class:Aves" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:sayaca genus:Thraupis class:Aves" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Porzana carolina" ; Times: 1
+
+
+End of report.
