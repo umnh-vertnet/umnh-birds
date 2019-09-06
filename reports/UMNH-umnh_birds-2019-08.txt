@@ -1,0 +1,199 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 191
+Number of records retrieved in searches: 1147
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 70
+	Country: Italy ; Times: 21
+	Country: Peru ; Times: 40
+	Country: Denmark ; Times: 20
+	Country: United Kingdom ; Times: 34
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-08 ; Times: 15
+	Date: 2019-08-01 ; Times: 7
+	Date: 2019-08-07 ; Times: 5
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-03 ; Times: 12
+	Date: 2019-08-16 ; Times: 11
+	Date: 2019-08-15 ; Times: 31
+	Date: 2019-08-14 ; Times: 40
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 24
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-09 ; Times: 14
+	Date: 2019-08-22 ; Times: 5
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 3
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (San Benito) AND (Ptychoramphus)" ; Times: 2
+	Query: "Eremophila alpestris strigata" ; Times: 7
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "Calidris canutus" ; Times: 2
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "Anthropoides virgo" ; Times: 1
+	Query: "Netta peposaca" ; Times: 1
+	Query: "Puffinus lherminieri" ; Times: 1
+	Query: "family:Alcidae class:Aves country:&#34;Mexico&#34; (Todos Santos) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Gygis alba" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "oceanites gracilis year &gt;= 1960 year &lt;= 2019" ; Times: 1
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "Empidonax traillii extimus" ; Times: 6
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "pterodroma cervicalis" ; Times: 7
+	Query: "Pterodroma brevipes" ; Times: 1
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "specificepithet:demersus genus:Spheniscus" ; Times: 2
+	Query: "specificepithet:squamatus genus:Mergus" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (santos) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 2
+	Query: "Strix occidentalis lucida" ; Times: 5
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Larosterna inca" ; Times: 2
+	Query: "pterodroma brevipes" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:Endomychura stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Oceanites oceanicus" ; Times: 1
+	Query: "Pterodroma externa" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Todos Santos) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "Serinus canaria" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (santos endomychura) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "family:Alcidae locality:Coronados country:&#34;mexico&#34; AND (NOT Ptychoramphus) year &gt;= 1960 year &lt;= 1979" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "specificepithet:craveri country:&#34;Mexico&#34; (Todos Santos)" ; Times: 1
+	Query: "Pharomachrus pavoninus" ; Times: 1
+	Query: "Pterodroma inexpectata" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Pygoscelis antarcticus" ; Times: 1
+	Query: "oceanodroma leucorhoa guadalupe year &gt;= 1955 year &lt;= 2019" ; Times: 1
+	Query: "Oceanodroma castro" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "oceanites oceanicus exasperatus" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "Eudromia elegans" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "halocyptena" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Todos Santos)" ; Times: 1
+	Query: "genus:Endomychura family:Alcidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "vultur gryphus" ; Times: 3
+	Query: "county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34; hastissue:1" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "order:Charadriiformes class:Aves country:&#34;Mexico&#34; (Todos Santos) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "specificepithet:japonensis genus:Grus" ; Times: 2
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Columbina picui" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 2
+	Query: "Lepidocolaptes angustirostris" ; Times: 2
+	Query: "Vireo bellii" ; Times: 3
+	Query: "Phaethon rubricauda" ; Times: 1
+	Query: "Gracula" ; Times: 2
+	Query: "Sula dactylatra" ; Times: 1
+	Query: "Pterodroma nigripennis" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "genus:Empidonax institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:laysanensis genus:Anas" ; Times: 3
+	Query: "Fregata minor" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Todos)" ; Times: 1
+	Query: "family:Alcidae locality:todos santos country:&#34;mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus NOT Cerorhinca)" ; Times: 1
+	Query: "Charadrius vociferus" ; Times: 1
+	Query: "family:Alcidae locality:todos country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus" ; Times: 2
+	Query: "Bulweria bulwerii" ; Times: 1
+	Query: "Fregata ariel" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 1
+	Query: "Leucosticte arctoa" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "Ixoreus naevius AND Island NOT Canada NOT Washington NOT FarallonNOT Alaska NOT Texas" ; Times: 1
+	Query: "Coccyzus americanus occidentalis" ; Times: 2
+	Query: "genus:Endomychura stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; (Santos)" ; Times: 1
+	Query: "family:Alcidae order:Charadriiformes class:Aves country:&#34;Mexico&#34; (Todos Santos) AND (NOT Ptychoramphus)" ; Times: 2
+	Query: "21879" ; Times: 1
+	Query: "family:Alcidae locality:todos santos country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Endomychura family:Alcidae country:&#34;Mexico&#34; (Todos Santos)" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe" ; Times: 2
+	Query: "Acanthis flammea" ; Times: 1
+	Query: "Anous minutus" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 2
+	Query: "Ixoreus naevius AND Island NOT Canada NOT Washington" ; Times: 1
+	Query: "specificepithet:wyvilliana genus:Anas" ; Times: 3
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "pterodroma cervicalis cervicalis" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 3
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Oceanodroma tethys" ; Times: 1
+	Query: "Chauna chavaria" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1034 download events in this period)
+Total number of records downloaded: 120
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 3
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "oceanodroma leucorhoa guadalupe year &gt;= 1955 year &lt;= 2019" ; Times: 1
+	Query: "family:Accipitridae" ; Times: 1
+	Query: "family:tinamidae preparations:skeleton" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Tachycineta thalassina stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Accipiter" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter AND (NOT cooperii NOT striatus) year &gt;= 1990" ; Times: 1
+	Query: "junco hyemalis" ; Times: 1
+	Query: "Gracula" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 1700 year &lt;= 1929" ; Times: 1
+
+
+End of report.
