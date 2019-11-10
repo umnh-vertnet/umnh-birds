@@ -1,0 +1,84 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 958
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 63
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 60
+
+List of queries that retrieved data from the resource: 
+	Query: "Puffinus newelli" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "county:&#34;Hennepin&#34; stateprovince:&#34;Minnesota&#34; year &gt;= 2015 year &lt;= 2019" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 18
+	Query: "Coccyzus americanus" ; Times: 10
+	Query: "inornatus coconino" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "Eremophila alpestris" ; Times: 6
+	Query: "Calidris canutus" ; Times: 5
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "2813 chordeiles" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 4
+	Query: "genus:poecile stateprovince:&#34;Colorado&#34; institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1073 download events in this period)
+Total number of records downloaded: 245
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "inornatus coconino" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Zonotrichia capensis" ; Times: 1
+
+
+End of report.
