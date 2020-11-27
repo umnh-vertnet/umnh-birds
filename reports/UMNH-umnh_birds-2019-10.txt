@@ -1,0 +1,142 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 396
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 17
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 5
+	Date: 2019-10-22 ; Times: 19
+	Date: 2019-10-21 ; Times: 9
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 14
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-30 ; Times: 6
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Puffinus opisthomelas AND Guadalupe AND 1968" ; Times: 1
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "Crossin AND Island AND MExico" ; Times: 1
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "class:Aves locality:Curecanti stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Piranga cooperi" ; Times: 1
+	Query: "Empidonax traillii extimus 2016" ; Times: 1
+	Query: "Pterocles India" ; Times: 2
+	Query: "Empidonax traillii extimus 2019" ; Times: 1
+	Query: "leucosticte pamirensis" ; Times: 1
+	Query: "Puffinus opisthomelas AND Guadalupe NOT Wilmot" ; Times: 1
+	Query: "Empidonax traillii extimus 2014" ; Times: 1
+	Query: "Strix occidentalis lucida 2019" ; Times: 1
+	Query: "Empidonax traillii extimus 1972" ; Times: 1
+	Query: "Brachyramphus marmoratus 2019" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 2
+	Query: "Strix occidentalis lucida 2016" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Guadalupe AND 1967 NOT Behle" ; Times: 1
+	Query: "Mycteria americana 2019" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Puffinus opisthomelas AND Guadalupe NOT Hubbs NOT Green NOT Wilmot NOT Beck NOT Anthony" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 4
+	Query: "Puffinus opisthomelas AND Guadalupe NOT Wright NOT Scripps NOT Hubbs NOT Green NOT Wilmot NOT Beck NOT Anthony" ; Times: 2
+	Query: "Mycteria americana 1997" ; Times: 1
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus 1989" ; Times: 1
+	Query: "genus:Sphyrapicus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Baeolophus inornatus California alameda county" ; Times: 1
+	Query: "Poecile atricapillus Utah. Wasatch County" ; Times: 1
+	Query: "Puffinus opisthomelas AND Guadalupe NOT Wilmot NOT Beck NOT Anthony" ; Times: 1
+	Query: "Puffinus opisthomelas AND Guadalupe AND 1967" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "Puffinus opisthomelas AND Guadalupe NOT Wilmot NOT Beck" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Coccyzus americanus 1980" ; Times: 1
+	Query: "Puffinus opisthomelas AND Guadalupe" ; Times: 2
+	Query: "Eremophila alpestris strigata 2016" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Guadalupe AND 1967" ; Times: 3
+	Query: "Eremophila alpestris strigata 2019" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Puffinus opisthomelas AND Guadalupe NOT Wright NOT Hubbs NOT Green NOT Wilmot NOT Beck NOT Anthony" ; Times: 1
+	Query: "H 6378-16" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Puffinus opisthomelas AND Guadalupe NOT Green NOT Wilmot NOT Beck NOT Anthony" ; Times: 1
+	Query: "Puffinus opisthomelas AND Guadalupe NOT Wisner NOT Wright NOT Scripps NOT Hubbs NOT Green NOT Wilmot NOT Beck NOT Anthony" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1308 download events in this period)
+Total number of records downloaded: 267
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 4
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 2
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+
+
+End of report.
