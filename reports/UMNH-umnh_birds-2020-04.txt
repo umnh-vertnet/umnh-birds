@@ -1,0 +1,164 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 382
+Number of records retrieved in searches: 1184
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 353
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 3
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-03 ; Times: 51
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-07 ; Times: 127
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 32
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-21 ; Times: 80
+	Date: 2020-04-26 ; Times: 5
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 5
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 64
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 11
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Podiceps nigricollis" ; Times: 3
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "B. marmoratus" ; Times: 5
+	Query: "Anas acuta" ; Times: 13
+	Query: "Piranga hepatica" ; Times: 5
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Grus japonensis" ; Times: 4
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Syrmaticus ellioti" ; Times: 3
+	Query: "Anas crecca" ; Times: 13
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "Anas clypeata" ; Times: 13
+	Query: "Podilymbus podiceps" ; Times: 4
+	Query: "22916" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "locality:chesapeake county:&#34;box elder&#34;" ; Times: 1
+	Query: "Leucosticte brandti" ; Times: 8
+	Query: "vultur gryphus" ; Times: 3
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "specificepithet:clarkii genus:aechmophorus (skeleton)" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "Aix galericulata" ; Times: 2
+	Query: "Anas strepera" ; Times: 13
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Hatch Utah" ; Times: 1
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "Anas formosa" ; Times: 13
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Oceanodroma castro" ; Times: 4
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "bicknell vntype:specimen" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "Piranga ludoviciana" ; Times: 8
+	Query: "Leucosticte arctoa" ; Times: 7
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "Mergus squamatus" ; Times: 5
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Marmaronetta angustirostris" ; Times: 13
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "Butorides striata" ; Times: 9
+	Query: "Tragopan temminckii" ; Times: 3
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "Acanthis flammea" ; Times: 3
+	Query: "Anser indicus" ; Times: 5
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Anas falcata" ; Times: 13
+	Query: "Anas penelope" ; Times: 11
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "specificepithet:major genus:Parus country:&#34;Germany&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Spilornis cheela" ; Times: 7
+	Query: "Motacilla tschutschensis" ; Times: 5
+	Query: "Bubo scandiacus sex:female" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 5
+	Query: "Corvus macrorhynchos" ; Times: 9
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "recordedby:w. w. price" ; Times: 2
+	Query: "Rhea americana" ; Times: 3
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "Puffinus pacificus" ; Times: 3
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 1
+	Query: "Piranga rubra" ; Times: 5
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Netta rufina" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1171 download events in this period)
+Total number of records downloaded: 582
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-21 ; Times: 2
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-27 ; Times: 4
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "family:Passerellidae hastissue:1" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.
