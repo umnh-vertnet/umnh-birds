@@ -1,0 +1,69 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 134
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 2
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-30 ; Times: 4
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "spinus tristis pallidus" ; Times: 1
+	Query: "Eremophila alpestris strigata 2016" ; Times: 6
+	Query: "Buteo jamaicensis 1937" ; Times: 1
+	Query: "Eremophila alpestris strigata 2019" ; Times: 6
+	Query: "13110" ; Times: 1
+	Query: "native birds la county" ; Times: 1
+	Query: "momotus lessonii year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:palustris genus:cistothorus (279)" ; Times: 1
+	Query: "279 specificepithet:palustris genus:cistothorus" ; Times: 1
+	Query: "11270." ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 195
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Hong Kong ; Times: 3
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "spinus tristis pallidus" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "spinus tristis salicamans" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+
+
+End of report.
