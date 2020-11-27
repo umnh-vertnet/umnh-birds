@@ -1,0 +1,130 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 573
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 127
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-14 ; Times: 16
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 16
+	Date: 2019-11-09 ; Times: 14
+	Date: 2019-11-06 ; Times: 9
+	Date: 2019-11-07 ; Times: 20
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-16 ; Times: 18
+	Date: 2019-11-10 ; Times: 4
+	Date: 2019-11-13 ; Times: 18
+	Date: 2019-11-01 ; Times: 14
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-29 ; Times: 7
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Eremophila alpestris strigata 2016" ; Times: 4
+	Query: "Oceanites oceanicus exasperatus" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "specificepithet:iliaca year &gt;= 2002 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Empidonax traillii extimus 2014" ; Times: 4
+	Query: "Empidonax traillii extimus 2016" ; Times: 4
+	Query: "specificepithet:ustulatus class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Empidonax traillii extimus 2019" ; Times: 4
+	Query: "Crossin AND Coronados NOT DeLong" ; Times: 1
+	Query: "Huber AND Puffinus puffinus opisthomelas" ; Times: 1
+	Query: "Crossin AND Coronados" ; Times: 3
+	Query: "Strix occidentalis lucida 2019" ; Times: 3
+	Query: "18819" ; Times: 1
+	Query: "Empidonax traillii extimus 1972" ; Times: 4
+	Query: "Brachyramphus marmoratus 2019" ; Times: 5
+	Query: "specificepithet:lincolnii class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:tolmiei class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "Brachyramphus marmoratus 1989" ; Times: 5
+	Query: "Strix occidentalis lucida 2016" ; Times: 3
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Mycteria americana 2019" ; Times: 4
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "specificepithet:celata class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "vntype:specimen specificepithet:palmarum genus:Thraupis class:Aves country:&#34;Brazil&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 8
+	Query: "specificepithet:iliaca class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:americana class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "20532" ; Times: 1
+	Query: "specificepithet:hyemalis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "catalognumber:22763 institutioncode:UMNH" ; Times: 2
+	Query: "Mycteria americana 1997" ; Times: 4
+	Query: "19720" ; Times: 2
+	Query: "pterodroma cervicalis" ; Times: 6
+	Query: "19197" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:atricapillus class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:nuchalis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:guttatus class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Coccyzus americanus 1980" ; Times: 4
+	Query: "specificepithet:nuchalis class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:22765 institutioncode:UMNH" ; Times: 1
+	Query: "Eremophila alpestris strigata 2019" ; Times: 4
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayana genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Spizella breweri" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "18905" ; Times: 2
+	Query: "specificepithet:iliaca class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1367 download events in this period)
+Total number of records downloaded: 156
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-06 ; Times: 12
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "order:Caprimulgiformes" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "vireo vicinior" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+
+
+End of report.
