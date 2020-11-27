@@ -1,0 +1,90 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 296
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: United Kingdom ; Times: 21
+	Country: Ecuador ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-06 ; Times: 15
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-15 ; Times: 13
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "genus:Passerina stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "pterodroma cervicalis" ; Times: 10
+	Query: "Glareola maldivarum" ; Times: 1
+	Query: "Pipilo stateprovince:&#34;Colorado&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; (Setophaga coronata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 11
+	Query: "sittidae institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Vultur country:&#34;Ecuador&#34;" ; Times: 12
+	Query: "11188" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 853 download events in this period)
+Total number of records downloaded: 310
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Ecuador ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "VULTUR GRYPHUS" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "genus:Passerina stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "genus:Passerina country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+
+
+End of report.
