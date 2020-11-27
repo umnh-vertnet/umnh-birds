@@ -1,0 +1,90 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 25
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:leucoptera genus:pterodroma" ; Times: 1
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "Phalaropus minnesota" ; Times: 1
+	Query: "momotus lessonii year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:UMNH" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 1
+	Query: "momotus lessonii year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta class:Aves stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1584 download events in this period)
+Total number of records downloaded: 825
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+
+
+End of report.
