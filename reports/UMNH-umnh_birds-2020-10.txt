@@ -1,0 +1,119 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 374
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 25
+	Country: Austria ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 35
+	Date: 2020-10-03 ; Times: 4
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "catalognumber:5551 institutioncode:UMNH" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1981 year &lt;= 1988" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Anas formosa" ; Times: 1
+	Query: "cinclus mexicanus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 8
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "Sterna sumatrana" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;new york&#34; year &gt;= 1880 year &lt;= 1920 institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 5
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "class:aves year &gt;= 1880 year &lt;= 1920 institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1521 download events in this period)
+Total number of records downloaded: 313
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 6
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+
+
+End of report.
