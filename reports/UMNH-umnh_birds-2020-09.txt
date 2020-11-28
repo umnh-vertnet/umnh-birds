@@ -1,0 +1,110 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 48
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Ireland ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 5
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-19 ; Times: 2
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-25 ; Times: 8
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-23 ; Times: 7
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Ducula aenea sylvatica" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus)" ; Times: 3
+	Query: "genus:Limnothlypis" ; Times: 2
+	Query: "Ketupa zeylonensis zeylonensis" ; Times: 1
+	Query: "10815 aves" ; Times: 1
+	Query: "genus:Picoides" ; Times: 1
+	Query: "specificepithet:inexpectata genus:pterodroma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Vultur gryphus" ; Times: 11
+	Query: "pterodroma brevipes" ; Times: 2
+	Query: "procellariiformes year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:22005 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 10
+	Query: "(Endomychura)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 976 download events in this period)
+Total number of records downloaded: 2184
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 5
+	Country: Netherlands ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 6
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:.*" ; Times: 3
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Tinamidae vntype:specimen (Eudromia elegans ) year &gt;= 1901" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Synthliboramphus OR Endomychura) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:Europe hassex:1" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta month &gt;= 8 month &lt;= 9 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
