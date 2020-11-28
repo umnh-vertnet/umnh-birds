@@ -1,0 +1,105 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 104
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 30
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-21 ; Times: 30
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "vntype:specimen genus:Spilornis year &gt;= 1945 year &lt;= 2020" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "B. marmoratus" ; Times: 1
+	Query: "Crossoptilon auritum" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "Anas formosa" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "genus:Goura" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Piranga ludoviciana" ; Times: 1
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "institutioncode:umnh" ; Times: 1
+	Query: "14370" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 1
+	Query: "Motacilla tschutschensis" ; Times: 1
+	Query: "vntype:specimen genus:Spilornis year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "mappable:1 scientificname:Anas cyanoptera" ; Times: 1
+	Query: "20858 aves" ; Times: 1
+	Query: "Syrmaticus ellioti" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 756 download events in this period)
+Total number of records downloaded: 271
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "genus:Agapornis family:Psittaculidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+
+
+End of report.
