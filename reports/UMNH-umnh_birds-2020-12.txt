@@ -1,0 +1,110 @@
+Report for Institution Code UMNH, Resource umnh_birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 201
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 3
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 37
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-20 ; Times: 6
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 3
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 6
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-04 ; Times: 25
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "mappable:1 scientificname:Podilymbus podiceps" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "vultur gryphus" ; Times: 3
+	Query: "ammoperdix griseogularis" ; Times: 3
+	Query: "picoides sitkensis" ; Times: 1
+	Query: "Leucosticte arctoa" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 1
+	Query: "Acanthis hornemanni" ; Times: 2
+	Query: "Anas formosa" ; Times: 2
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "Anas falcata" ; Times: 2
+	Query: "Leucosticte brandti" ; Times: 1
+	Query: "Piranga ludoviciana" ; Times: 2
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 2
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Puffinus pacificus" ; Times: 1
+	Query: "mappable:1 scientificname:Nycticorax nycticorax" ; Times: 1
+	Query: "catalognumber:13834 institutioncode:UMNH" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "Acanthis flammea" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "mappable:1 scientificname:Anous stolidus" ; Times: 2
+	Query: "stateprovince:&#34;utah&#34; recordedby:Rickart institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:caerulescens stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "Motacilla tschutschensis" ; Times: 2
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 5
+	Query: "Piranga rubra" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 705 download events in this period)
+Total number of records downloaded: 1135
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vultur gryphus" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga" ; Times: 2
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+
+
+End of report.
